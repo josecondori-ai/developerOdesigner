@@ -44,7 +44,6 @@ class DevOrDesigner {
 
     /** 
      * Alterna la ocupación entre "developer" y "designer"
-     * También cambia el color de fondo a blanco cuando se presiona el botón
      */
     occupationToggle() {
         this.occupation = this.occupation === "developer" ? "designer" : "developer"; // Alterna la ocupación

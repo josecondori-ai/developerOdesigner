@@ -175,7 +175,6 @@
     padding-inline: 0.75em 0;
   }
   
-  /* Dark theme */
   @media (prefers-color-scheme: dark) {
     :root {
       --bg: hsl(var(--hue), 10%, 10%);
