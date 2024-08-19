@@ -1,5 +1,11 @@
 # 🎨🔄 Switch entre Developer y Designer
 
+
+
+https://github.com/user-attachments/assets/e76024c7-b14b-45f7-b6ef-58a6259c5469
+
+
+
 ## 🌟 Visión General
 Este proyecto es un ejemplo de cómo crear un switch interactivo que permite a los usuarios alternar entre los modos **Developer** y **Designer** en una página web. Con un solo clic, el icono y el fondo cambian dinámicamente, proporcionando una experiencia visualmente atractiva y funcional. Ideal para quienes buscan mejorar sus habilidades en front-end y DOM manipulation.
 
